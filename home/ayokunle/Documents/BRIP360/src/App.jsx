@@ -2,6 +2,7 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 
+// Pages
 import Home from './pages/Home';
 import Solutions from './pages/Solutions';
 import Tools from './pages/Tools';
